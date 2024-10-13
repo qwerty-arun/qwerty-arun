@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Arun K R</h1>
-<h3 align="center">A passionate learner from India! I really enjoy programming and apply them to hardware projects. I am learning PCB designing, CAD Modelling (OnShape) and programming languages like C and C++</h3>
+# 💫 Hi there, I'm Arun
+Currently Studying Electronics and Telecommunication Engineering at RVCE, Bengaluru<br>Currently Learning PCB designing, CAD Modelling (OnShape), and programming languages like C and C++<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qwerty-arun" alt="qwerty-arun" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++ along with PCB Designing and CAD Modelling**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arun-k-r-3706a525b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxXglRy9ZSCKsDqI9QfB2%2Bw%3D%3D) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qwerty-arun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qwerty-arun&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty-arun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwerty-arun&show_icons=true&locale=en&layout=compact" alt="qwerty-arun" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qwerty-arun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qwerty-arun&show_icons=true&locale=en" alt="qwerty-arun" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=qwerty-arun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwerty-arun&" alt="qwerty-arun" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
