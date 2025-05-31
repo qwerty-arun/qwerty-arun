@@ -1,10 +1,10 @@
 # 💫 Hi there, I'm Arun
 
-## 🎓 Engineering student passionate about **technology**, **design**, and **intelligent systems**.
+# 🎓 Engineering student passionate about **technology**, **design**, and **intelligent systems**.
 
 ## 🛠️ What I Do
 - 📍 Studying **Electronics and Telecommunication Engineering** at **RV College of Engineering, Bengaluru**.
-- 💡 Enthusiast in **Electronics**, **CAD modeling**, and **AI/ML**
+- 💡 Enthusiast in **Electronics**, **CAD modeling**, **PCB Designing** and **AI/ML**
 - 💻 Experienced in **C**, **C++**, and currently learning **AI & Machine Learning**
 - 🛠️ Working with tools like **OnShape** (CAD Modeling), **KiCad** (PCB Designing)
 
@@ -57,4 +57,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=qwerty-arun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qwerty-arun&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty-arun&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
