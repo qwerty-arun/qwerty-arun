@@ -4,9 +4,8 @@
 
 ## 🛠️ What I Do
 - 📍 Studying **Electronics and Telecommunication Engineering** at **RV College of Engineering, Bengaluru**.
-- 💡 Enthusiast in **Electronics**, **CAD modeling**, **PCB Designing** and **AI/ML**
-- 💻 Experienced in **C**, **C++**, and currently learning **AI & Machine Learning**
-- 🛠️ Working with tools like **OnShape** (CAD Modeling), **KiCad** (PCB Designing)
+- 💡 **Artificial Intelligence** and **Machine Learning** Enthusiast 
+- 💻 Experienced in **C**, **C++**, and currently learning **AI & ML**
 
 ## 📚 Currently Learning
 - 🤖 Artificial Intelligence & Machine Learning  
